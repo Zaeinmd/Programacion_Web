@@ -12,8 +12,10 @@ Asegúrate de tener instalado:
 
 Clona este repositorio:
 ``` git clone https://github.com/tu_usuario/tu_repositorio.git ```
+
 Entra al directorio del proyecto:
 ``` cd tu_repositorio ```
+
 Instala las dependencias:
 ``` npm install ```
 
