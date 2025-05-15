@@ -1,12 +1,15 @@
-#Proyecto Final - Programación Web (Parcial 2)
+# Proyecto Final - Programación Web (Parcial 2)
+
 Este proyecto corresponde al segundo parcial de la materia de Programación Web en la UTM. Se trata de una página web desarrollada con tecnologías modernas.
 
-##Requisitos previos
+## Requisitos previos
+
 Asegúrate de tener instalado:
 > Node.js (versión recomendada: 16 o superior)
 > npm (viene incluido con Node.js)
 
-##Instalación
+## Instalación
+
 Clona este repositorio:
 ``` git clone https://github.com/tu_usuario/tu_repositorio.git ```
 Entra al directorio del proyecto:
